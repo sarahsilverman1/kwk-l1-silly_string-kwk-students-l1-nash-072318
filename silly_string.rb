@@ -7,7 +7,7 @@ puts "i really like programming".capitalize
 
 # Challenge 1: Fill this string in with your favorite word
 
-your_favorite_word = ""
+your_favorite_word = "wack"
 
 puts "My favorite word is wack"
 
